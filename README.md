@@ -1,7 +1,7 @@
-# hacklytics2025
+# hacklytics without AI 2025
 It is a hackathon organised by Data Science Club at GT. 
 
-In this project, we are looking into the Ethereum Dataset from Kaggle to build a fraud detection model. Steps followed in this process are: 
+In this project, we are looking into the **Ethereum Dataset** from Kaggle to build a fraud detection model. Steps followed in this process are: 
 
 1. Exploratory data analysis: This involves observing the dataset for some statstics and looking for missing values, duplicates, and outliers.
    a) The given dataset contains 9841 observations for 50 features to start with (first column before 'Index' is excluded). All the columns are in the correct data format - strings as object and numeric as int or float. The columns are renamed to remove spaces in the column names. The three string columns are 'address', 'ERC20MostSentTokenType', 'ERC20MostRecTokenType'. 
